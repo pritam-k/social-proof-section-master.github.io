@@ -23,6 +23,7 @@
       height: auto;
       width: 100%;
       background-image: url('./images/bg-pattern-top-desktop.svg');
+      background-position: cover;
   }
 
   .hero-container{
